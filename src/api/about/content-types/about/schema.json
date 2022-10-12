@@ -1,0 +1,30 @@
+{
+  "kind": "singleType",
+  "collectionName": "abouts",
+  "info": {
+    "singularName": "about",
+    "pluralName": "abouts",
+    "displayName": "about"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "about": {
+      "type": "richtext"
+    },
+    "personal": {
+      "type": "richtext"
+    },
+    "skills": {
+      "type": "richtext"
+    },
+    "hobbies": {
+      "type": "richtext"
+    },
+    "languages": {
+      "type": "richtext"
+    }
+  }
+}
